@@ -9,10 +9,36 @@ React-Project
 
 ## Description Of The Project
 
-A React app - frontend part for my e-commerce shop [WeArmyWorld7](https://www.instagram.com/wearmyworld7/).
-
 > [Deployed App Link](https://wearmyworld7.vercel.app/)
 
+A React app - frontend part for my e-commerce shop [WeArmyWorld7](https://www.instagram.com/wearmyworld7/).
+
+### Motivation
+
+The purpose of this project was to get familiar with React and build own page for my shop, so that I could connet it later with backend part.
+
+#### If you want to try or further develop, here's the guide:
+
+### Getting Started
+
+Click the demo link or clone/download the repository on your local machine.
+
+##### Install dependencies
+
+`npm install`
+
+##### Run Snap Shot from the root directory.
+
+`npm start`
+
+### Built With
+
+- React js
+- React Router
+
+### Features
+
+**1. It's not responsive yet
 
 Final result:
 
