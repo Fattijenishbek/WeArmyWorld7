@@ -6,7 +6,7 @@ React-Project
 - Email: fatima.bekmamatova@iaau.edu.kg
 - Computer Science Department of Alatoo International University.
 - Individual final project for COM 427: Front-end Development class.
-- ![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
+- <img src="https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png" width="100">
 
 
 ## Description Of The Project
@@ -18,7 +18,7 @@ A React app - frontend part for my e-commerce shop [WeArmyWorld7](https://www.in
 ### Motivation
 
 The purpose of this project was to get familiar with React and build own page for my shop, so that I could connet it later with backend part.
-<img src="https://user-images.githubusercontent.com/57977808/207253152-7e543ece-c14e-4462-b7a3-db5ab2bc5991.jpg" width="80">
+<img src="https://user-images.githubusercontent.com/57977808/207253152-7e543ece-c14e-4462-b7a3-db5ab2bc5991.jpg" width="120">
 
 #### If you want to try or further develop, here's the guide:
 
