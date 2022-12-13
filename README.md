@@ -18,6 +18,7 @@ A React app - frontend part for my e-commerce shop [WeArmyWorld7](https://www.in
 ### Motivation
 
 The purpose of this project was to get familiar with React and build own page for my shop, so that I could connet it later with backend part.
+<img src="https://user-images.githubusercontent.com/57977808/207253152-7e543ece-c14e-4462-b7a3-db5ab2bc5991.jpg" width="20">
 ![photo_5460967981501759041_c](https://user-images.githubusercontent.com/57977808/207253152-7e543ece-c14e-4462-b7a3-db5ab2bc5991.jpg =20x20)
 
 #### If you want to try or further develop, here's the guide:
