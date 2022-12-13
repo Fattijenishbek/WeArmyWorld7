@@ -6,6 +6,8 @@ React-Project
 - Email: fatima.bekmamatova@iaau.edu.kg
 - Computer Science Department of Alatoo International University.
 - Individual final project for COM 427: Front-end Development class.
+- ![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
+
 
 ## Description Of The Project
 
