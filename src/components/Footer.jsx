@@ -72,7 +72,10 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Link to={`/`} style={{ textDecoration: "none", color: "#6666ff" }}>
+        <Link
+          to={`/wearmyworld7`}
+          style={{ textDecoration: "none", color: "#6666ff" }}
+        >
           <Logo>WeArmyWorld7.</Logo>
         </Link>
         <Desc>

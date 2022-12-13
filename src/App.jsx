@@ -16,7 +16,7 @@ const App = () => {
   return (
     <Router>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/wearmyworld7">
           <Home />
         </Route>
         <Route path="/products/:category">
